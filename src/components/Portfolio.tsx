@@ -39,24 +39,6 @@ const Portfolio = () => {
       image: portfolio3,
       title: "Romantic Wedding Hair",
       description: "Timeless bridal styling designed to make your special day unforgettable"
-    },
-    {
-      id: 7,
-      image: portfolio1,
-      title: "Lived-in Blonde",
-      description: "Effortless blonde highlights that grow out beautifully with low maintenance"
-    },
-    {
-      id: 8,
-      image: portfolio2,
-      title: "Face-Framing Layers",
-      description: "Strategic layers and highlights to enhance facial features"
-    },
-    {
-      id: 9,
-      image: portfolio3,
-      title: "Special Event Styling",
-      description: "Glamorous updos and styling for parties, proms, and celebrations"
     }
   ];
 
