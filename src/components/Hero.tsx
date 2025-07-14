@@ -31,7 +31,7 @@ const Hero = () => {
           </p>
           
           <p className="font-inter text-lg text-muted-foreground mb-10 max-w-lg leading-relaxed">
-            Currently perfecting my craft at Laurel Technical Institute. Graduating December 2024 and passionate about creating beautiful transformations that make you feel confident and radiant.
+            Currently perfecting my craft at Laurel Technical Institute. Graduating December 2025 and passionate about creating beautiful transformations that make you feel confident and radiant.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">

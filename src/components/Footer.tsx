@@ -68,7 +68,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-background/20 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="font-inter text-sm text-background/60 mb-4 md:mb-0">
-            © 2024 ColoredByJoss. All rights reserved.
+            © 2025 ColoredByJoss. All rights reserved.
           </p>
           <div className="flex items-center text-background/60 font-inter text-sm">
             <span>Made with</span>

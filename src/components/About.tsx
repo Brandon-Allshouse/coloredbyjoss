@@ -15,7 +15,7 @@ const About = () => {
     {
       icon: Award,
       title: "December Graduate",
-      description: "Graduating from Laurel Technical Institute in December 2024, ready to start my professional journey"
+      description: "Graduating from Laurel Technical Institute in December 2025, ready to start my professional journey"
     },
     {
       icon: Users,
@@ -34,7 +34,7 @@ const About = () => {
               About Jossalyn
             </h2>
             <p className="font-inter text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-              A 19-year-old aspiring hair stylist from New Castle, PA, currently pursuing her passion at Laurel Technical Institute with graduation set for December 2024.
+              A 20-year-old aspiring hair stylist from New Castle, PA, currently pursuing her passion at Laurel Technical Institute with graduation set for December 2024.
             </p>
           </div>
 
@@ -46,7 +46,7 @@ const About = () => {
               </h3>
               <div className="space-y-4 font-inter text-muted-foreground leading-relaxed">
                 <p>
-                  At 19 years old, I'm living my dream by pursuing my passion for hair artistry at Laurel Technical Institute here in New Castle, PA. Every day brings new learning opportunities as I master the techniques that will help me transform lives through beautiful hair.
+                  At 20 years old, I'm living my dream by pursuing my passion for hair artistry at Laurel Technical Institute here in New Castle, PA. Every day brings new learning opportunities as I master the techniques that will help me transform lives through beautiful hair.
                 </p>
                 <p>
                   What started as a love for experimenting with different styles has grown into a deep commitment to excellence in hair design. I'm dedicated to learning everything from classic cutting techniques to the latest color trends, ensuring that when I graduate this December, I'll be ready to help every client feel their absolute best.

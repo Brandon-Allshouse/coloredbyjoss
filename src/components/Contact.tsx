@@ -166,13 +166,7 @@ const Contact = () => {
                   <div className="flex items-center">
                     <Phone className="w-5 h-5 text-primary mr-3 flex-shrink-0" />
                     <span className="font-inter text-muted-foreground">
-                      (555) 123-4567
-                    </span>
-                  </div>
-                  <div className="flex items-center">
-                    <Mail className="w-5 h-5 text-primary mr-3 flex-shrink-0" />
-                    <span className="font-inter text-muted-foreground">
-                      hello@coloredbyjoss.com
+                      (724) 714-9598
                     </span>
                   </div>
                   <div className="flex items-start">
